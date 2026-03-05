@@ -52,6 +52,7 @@ system-design-case-studies
 
 ## Contact
 
-LinkedIn: (Add your LinkedIn URL)
+LinkedIn: https://www.linkedin.com/in/gaurav-jain-36b566a4
 
-Email: (Add your email)
+Email: jaingauravvya@gmail.com
+
