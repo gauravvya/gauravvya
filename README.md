@@ -42,6 +42,14 @@ High-performance APIs for cart and checkout flows.
 Bigship – Shipment Tracking Platform
 Real-time shipment tracking and alerting system.
 
+## Project Links
+
+MeetSpa – https://meetspa.net
+Chargezoom – https://chargezoom.com
+IdeelArt – https://ideelart.com
+YA Market – https://yamarket.com
+Bigship – https://bigship.in
+
 ## GitHub Portfolio Repositories
 
 scalable-laravel-api-architecture
